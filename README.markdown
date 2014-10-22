@@ -6,4 +6,4 @@ These are the articles I've written, _or I'm working on_, for [my blog at Pony F
 
 MIT
 
-  [1]: http://blog.ponyfoo.com "Pony Foo"
+  [1]: http://ponyfoo.com "Pony Foo"
